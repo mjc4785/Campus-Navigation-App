@@ -1,7 +1,9 @@
 # UMBC Campus Navigation Application
 ![gif1-ezgif com-resize](https://github.com/user-attachments/assets/56846d19-8c0f-4fdc-87f5-2863e3f78850)
 <img width="251" height="500" alt="Screenshot from 2026-03-05 13-29-53" src="https://github.com/user-attachments/assets/fe35fe98-6036-4d55-9a7e-9c2040f509a4" />
-<img width="252" height="500" alt="Screenshot from 2026-03-05 13-36-43" src="https://github.com/user-attachments/assets/8a0e03a0-ca6b-4a90-903c-6eb1272a504e" />
+<img width="234" height="500" alt="Screenshot from 2026-03-05 13-41-35" src="https://github.com/user-attachments/assets/1f7c3729-1c1e-4e24-b7eb-a79a3c88c15d" />
+
+
 
 ## Inspiration
 Currently, although UMBC is a smaller campus, navigating the campus is tough for new students and visitors. The objective of this application is...  
