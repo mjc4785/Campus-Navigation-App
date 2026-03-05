@@ -287,7 +287,7 @@ In **both** the index.jsx and StepByStepNavigator.jsx files find the following c
 const BACKEND_URL = "https://1976b818c288.ngrok-free.app/"
 ```
 
-Replace the current url with your generated ngrok url. **Do not forget the trailing slash!!!**
+Replace the current url with your generated ngrok url. **!!!Do not forget the trailing slash!!!**
 
 At this point: 
 1) Your backend has the ability to connect to the database and ORS api (for walking paths and directions)

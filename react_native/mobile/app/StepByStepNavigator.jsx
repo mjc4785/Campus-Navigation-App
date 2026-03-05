@@ -9,7 +9,7 @@ import haversine from 'haversine-distance';
 import HeadingPuck from '../components/HeadingPuck';
 const HEADING_SHADOW = true; // if true, show custom HeadingPuck; if false, show default blue dot
 
-const BACKEND_URL = "https://1976b818c288.ngrok-free.app/";
+const BACKEND_URL = "https://41637731958b.ngrok-free.app/";
 const OFF_ROUTE_THRESHOLD = 20; // meters
 
 export default function StepByStepNavigator() {
