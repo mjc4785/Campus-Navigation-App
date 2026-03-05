@@ -26,6 +26,7 @@ If there is anything unfinished or bugs to report in existing code, please reach
 ## Format
 ```
 CURRENT FORMAT
+```
 .
 ├── gitsteps.txt
 ├── react_native
